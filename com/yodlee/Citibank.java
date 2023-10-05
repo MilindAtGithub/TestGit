@@ -7,5 +7,5 @@ public class Citibank{
 	private int a=10;
 	private int d=10;
 	com.blah.user-thing
-/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	ok123wwsssssdsd1234sssssssssdsddsssdsdsdsdsds
+	ok123wwsssssdsd1234sssssssssdsddsssdsdsdsdsds
 }
